@@ -1,0 +1,22 @@
+{
+    "name":"kawschool/tienda-online",
+    "description": "creacion de una página web ecommerce",
+    "type": "project",
+    "license":"MIT",
+    "authors":[
+        {
+            "name":"enrique carrasco barba",
+            "email":"eacb2012p@gmail.com"
+        }
+    ],
+    "require":{
+
+    },
+    "autoload": {
+        "psr-4":{
+            "Kawschool\\":"src/"
+        }
+    }
+
+
+}
